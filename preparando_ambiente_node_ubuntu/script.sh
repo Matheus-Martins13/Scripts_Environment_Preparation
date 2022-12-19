@@ -14,7 +14,7 @@ sudo rm /etc/apt/sources.list.d/nodesource.list*
 # Baixar e instalar VS Code: https://code.visualstudio.com/download
 
 # Baixa e instala o Node.js na versão 16
-curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
+curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
 sudo apt install nodejs -y
 
 # Abaixo tudo é opcional
